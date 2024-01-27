@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Wangdrak 👋
 
+I'm currently a senior at Brown University studying Computer Science. I am an aspiring developer with a keen interest for building projects that have real world implications.
+
+- ⚡ Fun fact: I'm from Bhutan 🇧🇹
 <!--
 **wdorji/wdorji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+
+
