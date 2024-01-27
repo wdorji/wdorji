@@ -1,6 +1,6 @@
 ### Hi there, I'm Wangdrak 👋
 
-I'm currently a senior at Brown University studying Computer Science. I am an aspiring developer with a keen interest for building projects that have real world implications.
+I'm a senior at Brown University studying Computer Science and an aspiring developer with a keen interest for building projects that have real world implications.
 
 - ⚡ Fun fact: I'm from Bhutan 🇧🇹
 <!--
