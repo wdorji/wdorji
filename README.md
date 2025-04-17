@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: [wangdrak.dorji@gmail.com](wangdrak.dorji@gmail.com)
 
-- ⚡ Fun fact: I enjoy cooking and I can make some killer hoentay. If you don't know what that is [check it out here]([https://www.youtube.com/watch?v=WQHMCKTeZD0](https://mattandemilyinbhutan.blogspot.com/2012/10/hoentay-hootenanny.html))
+- ⚡ Fun fact: I enjoy cooking and I can make some killer hoentay. If you don't know what that is [check it out here](https://mattandemilyinbhutan.blogspot.com/2012/10/hoentay-hootenanny.html)
 
 <h3>Things I code with</h3>
 <p>
